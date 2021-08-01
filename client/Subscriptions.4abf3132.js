@@ -1,0 +1,1 @@
+import{S as s,i as a,s as t,af as e,ag as n,j as r,a6 as o,g as i}from"./client.b42c9420.js";function c(s){let a;return{c(){a=e("nothing here.")},l(s){a=n(s,"nothing here.")},m(s,t){r(s,a,t)},p:o,i:o,o:o,d(s){s&&i(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,c,t,{})}}
